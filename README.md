@@ -22,7 +22,7 @@ That’s how organizations start *teaching themselves* through AI.
 ---
 
 ## 🧩 What’s Inside
-/skills-library/
+```/skills-library/
 ├── registry.json
 ├── /meeting_summarizer/
 │ ├── SKILL.md
