@@ -48,9 +48,7 @@ Each Skill contains:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/skillops-starter-kit.git
-
-```
+   git clone https://github.com/<your-username>/skillops-starter-kit.git```
 
 
 Open a Skill and review its SKILL.md.
