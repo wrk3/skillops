@@ -30,6 +30,7 @@ That’s how organizations start *teaching themselves* through AI.
 └── /finance_report/
 ├── SKILL.md
 └── /scripts/generate_report.py
+```
 
 
 ✅ **Pre-built examples:**  
@@ -48,6 +49,8 @@ Each Skill contains:
 1. **Clone the repo**
    ```bash
    git clone https://github.com/<your-username>/skillops-starter-kit.git
+
+```
 
 
 Open a Skill and review its SKILL.md.
